@@ -12,3 +12,5 @@ https://tammamakhan.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Tammam Khan
+
+### ©️2019 Run Buddy, Inc
